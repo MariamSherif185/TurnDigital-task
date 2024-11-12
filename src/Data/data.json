@@ -1,8 +1,118 @@
-{
-    "categories":[
-        {
-            "category": 'Appitizers',
-            
-        }
+[
+  {
+    "category": "Appitizers",
+    "items": [
+      {
+        "name": "Cripsy Onion Rings",
+        "img": "src/assets/onion-rings.jpg",
+        "description": "Deep fried vidalia onion rings served with a tangy dipping sauce",
+        "price": 6.0,
+        "checked": false,
+        "quantity": 1
+      },
+      {
+        "name": "Thai spring rolls",
+        "img": "src/assets/spring-rolls.jfif",
+        "description": "Spring roll is a traditional Chinese savory snack where a pastry sheet is filled with vegetables, rolled & fried.",
+        "price": 7.0,
+        "checked": false,
+        "quantity": 1
+      },
+      {
+        "name": "Ancho chilli cheese quesadilla",
+        "img": "src/assets/quesadilla.webp",
+        "description": " Made by filling a tortilla with cheese and other fillings, folding it in half, and toasting it until the cheese is melted and the tortilla is crispy.",
+        "price": 8.0,
+        "checked": false,
+        "quantity": 1
+      }
     ]
-}
+  },
+  {
+    "category": "Soups",
+    "items": [
+      {
+        "name": "Lentil soup",
+        "img": "src/assets/quesadilla.webp",
+        "description": "Made with dried lentils, fresh vegetables, flavorful spices, and hearty greens.",
+        "price": 6.0,
+        "checked": false,
+        "quantity": 1
+      },
+      {
+        "name": "Cream soup",
+        "img": "src/assets/quesadilla.webp",
+        "description": "Melted butter, flour, milk, pepper.",
+        "price": 6.0,
+        "checked": false,
+        "quantity": 1
+      },
+      {
+        "name": "Vegetable soup",
+        "img": "src/assets/quesadilla.webp",
+        "description": "  It's packed with veggies like carrots, sweet potatoes, tomatoes, green beans, and more.",
+        "price": 6.0,
+        "checked": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "category": "Salads",
+    "items": [
+      {
+        "name": "Chicken Quinoa Salad",
+        "img": "src/assets/quesadilla.webp",
+        "description": "Grilled Gourmet chicken with coloured Quinoa, fresh vegetables, cherry tomatoes, topped with honey mustard dressing.",
+        "price": 6.0,
+        "checked": false,
+        "quantity": 1
+      },
+      {
+        "name": "Greek Salad",
+        "img": "src/assets/quesadilla.webp",
+        "description": "Savor Greece with our Greek Salad filled with lettuce, cherry tomatoes, cucumbers, bell peppers, black olives, creamy feta cheese, red onions, and our delicious vinaigrette sauce.",
+        "price": 6.0,
+        "checked": false,
+        "quantity": 1
+      },
+      {
+        "name": "Beans And Pasta Salad",
+        "img": "src/assets/quesadilla.webp",
+        "description": "Pasta salad with beans, corn, chickpeas and topped with vinaigrette dressing.",
+        "price": 6.0,
+        "checked": false,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "category": "Sandwiches",
+    "items": [
+      {
+        "name": "TURKEY & EMMENTAL",
+        "img": "src/assets/quesadilla.webp",
+        "description": "Turkey breast with emmental cheese and Dijonaise sauce on toast",
+        "price": 6.0,
+        "checked": false,
+        "quantity": 1
+      },
+      {
+        "name": "TUNA BAGUETTE",
+        "img": "src/assets/quesadilla.webp",
+        "description": "Tuna with bell peppers and spring onions in brown baguette",
+        "price": 6.0,
+        "checked": false,
+        "quantity": 1
+      },
+      {
+        "name": "HALLOUMI & SUN-DRIED TOMATOES",
+        "img": "src/assets/quesadilla.webp",
+        "description": "Grilled halloumi with sun-dried tomatoes, rocca, and pesto sauce in panini bread",
+        "price": 6.01,
+        "checked": false,
+        "quantity": 1
+      }
+    ]
+  }
+]
